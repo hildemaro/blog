@@ -1,5 +1,11 @@
 body{
     color: darkgreen;
     text-align: center;
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
 }
+
+title{
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
